@@ -1,0 +1,66 @@
+h1{
+text-align: center;
+}
+
+.navbar-nav {
+float: none;
+text-align: center;
+word-spacing: 40px;
+}
+
+.navbar-nav > li {
+display: inline-block;
+float: none;
+}
+
+.col-sm-8 {
+background-color: rgb(253, 253, 253);
+width: 535px;
+height: 530px
+}
+
+hr {
+background-color: gray; 
+border: none;
+height: 2px;
+}
+
+body {
+background-color: lightgrey;
+}
+
+footer {
+position: absolute;
+right: 0;
+bottom: 0;
+left: 0;
+padding: 2rem;
+background-color: rgb(48, 45, 45);
+text-align: center;    
+}
+
+.img1 {
+    float: left;
+    clear: right;
+    margin: 20px;
+}
+
+.img2 {
+    margin: 20px
+}
+
+.img3 {
+    float: left;
+    clear: left;
+    margin: 20px;
+}
+
+.img4 {
+    margin: 20px;
+}
+
+.img5{
+    float: left;
+    clear: left;
+    margin: 20px;
+}
